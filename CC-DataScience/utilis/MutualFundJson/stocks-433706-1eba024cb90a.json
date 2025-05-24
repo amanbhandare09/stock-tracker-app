@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stocks-433706",
+  "private_key_id": "1eba024cb90aa6da1bb0654bd1829df518c609ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUqMRv10op3FOv\nGq34XgviFKjJu2d5GKOrjWNB31Oo8OEcX6Rz1V4lOzdPLOsyiKnddoJRbUt61Stg\n9LpCPW3oObez6KaBukCKtZSqzXm8GpgXK/O18E7DF5mnrRaHu7E5OsTkuLbAix+8\nlkQulWyV9MGKImzClOUsg+mZDATzs4bjOcyqpzubK1tnk/FGvz6WIwW/M0CHGWup\n2Tb5FE12V5uEUReHTZMHen8kgiVHr4Z4/uhNOzRGoit27op+gufBL00h5F3t/Xkp\n6YGjmAPWK77WMzkbD6DvM1QNZ5+dhB575vI7yAx4TuiaKaTQ9MMhtBOY4QR2bUEK\nXc4ByS9LAgMBAAECggEAAaiVByG8mD/23QwWpx/he7m68lk5ZnlMZim90up7bqCV\nWlwveQKx5LIcRAazxGIQRxdp4nUDiRDKGvBQCFTSyOr6mN1pHNG8+O8yrpR78wnM\nQEHuG6MH4Jb++1xr1Rgrz4Ak2d+9Bjk8duhURWgcXdtCXNiqeaHwoUZYJlbN0qwz\nOYdCxoX/Eqnjbr/QgSe8qs8yWaRTTeqhoYr7NvdGEtARnY8m9xPFGS4fC2jUpQUX\ndB64mwFy0hORwWQCaOvryhRKuZNynB6c5kBXYtpT06D6gXBkqiq+4Ac05CB55X7L\nNC3GidQ061m9dmjNeNoc+SlNJuU/TftjUse7/JBQrQKBgQDD0734BH12BMUNbYNM\nVjSCC7bEbUvvGhCiy5dx8AuLa0PAb0oCQ2Pyl3lXGM4stFv5ZyJ4Ct8Bl66smYeL\nwgN4WG4YUFPFMCkDrUujTOZ/YuijI510nw/1j1kAjfTo1VwSlJRBbzQuefteeP3F\n0TsKBk0PHDYqqUadobYtrVUllQKBgQDCVq5RQKX5aIv3vUpEjI4RBXsyQ0DpHty1\n5oD+an1k8CBeZId0L4XlbgB+hBK4JXq3TXAcyqgeit5QQPqGquArxssUEd5+KrMD\n6ywHld/njRCGv4RIhNdy2ZwIOIksFXewTAy0yfuIt8dSSmSw9i8ThLGo3DqB1vID\nOdWh+eYJXwKBgBccy6QVK5WdVICUN1XwKrxak5S1bavnwKTmMJazBTnMTC/PMsX3\nnDlKpXihJdxi4SQbhxbx+YYfl+8pI7VcDbrLfRsDiA+S8pRLhMzeS6onS1vN3Uyh\nZWnPJGsLVieQ3xAWVzUt4dPGc+Oflhwd6MDzI28wHjiEyB/csTrM5WrNAoGAVHbg\nJKh4esIZs38t/EUqqfM77EiWubuUKesZPXqDLY/AQcZnqPPOujzpMhOtHyQLBgg+\nJgVetIeewDq9qDI0ZFJuiTaLAUMFszpPVKyrODRzbl1m3S3/hgdWbaxE0kgyUQl8\nrEbtcCqQExAKW29kXpNZtA6jzzLg1M4aL+AxPvkCgYBuE2KQACz+ApnKs5Mr5Vok\nQ6wDRHPRBxGnR2YLVjU1PAATgE5iWczWZTTereyaPFmAXpGoZRuQVpIxTSW8kbDa\n/E6YnrgulzVZpVEsmg9imhz9M5PfHsyb3RK9WkicB6bInQmqgvlFX0N0Ed3t4Xpd\nqkLfsy4qx3nxb0I8MQic3g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mutualfundcal@stocks-433706.iam.gserviceaccount.com",
+  "client_id": "108492785191136876203",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mutualfundcal%40stocks-433706.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

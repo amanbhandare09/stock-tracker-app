@@ -1,0 +1,23 @@
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+__pycache__/
+rpa_python.log
+rpa_python.raw
+rpa_python.js
+rpa_python.js.tmp
+rpa_python
+tagui_local.js
+*.csv
+*.xlsx
+2024/
+.ruff_cache
+ruff_cache/
+indices_data
+
